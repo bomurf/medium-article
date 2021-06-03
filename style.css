@@ -1,8 +1,8 @@
-*, *:before, *:after {
+/* *, *:before, *:after {
   box-sizing: inherit;
   margin: 0;
   padding: 0;
-}
+} */
 
 /* Fonts and colors */
 body {
